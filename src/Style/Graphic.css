@@ -1,0 +1,11 @@
+.graphic-container {
+  color: white;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: #333333;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 10rem;
+  border: 1px solid #575757;
+}
